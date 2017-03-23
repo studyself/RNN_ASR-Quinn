@@ -7,7 +7,7 @@ Clone this repo to your local machine, and add the RNN-Tutorial directory as a s
 git clone https://github.com/silicon-valley-data-science/RNN-Tutorial
 cd RNN-Tutorial
 echo "export RNN_TUTORIAL=${PWD}" >> ~/.profile
-echo "export PYTHONPATH=$RNN_TUTORIAL/src:${PYTHONPATH}" >> ~/.profile
+echo "export PYTHONPATH=${PWD}/src:${PYTHONPATH}" >> ~/.profile
 source ~/.profile
 ```
 
