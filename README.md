@@ -31,7 +31,7 @@ pip install tensorflow-gpu==1.0.1
 If you will be running TensorFlow on CPU only (i.e. a MacBook Pro), use the following command (if you get an error the first time you run this command read below):
 
 ```bash
-pip install --upgrade --ignore-installed\
+pip install --upgrade\
  https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.0.1-py3-none-any.whl
 ```
 
