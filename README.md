@@ -1,4 +1,4 @@
-# Recurrent Neural Networks  - A Short TensorFlow Tutorial
+# [Recurrent Neural Networks  - A Short TensorFlow Tutorial](https://svds.com/tensorflow-rnn-tutorial/)
 
 ### Setup
 Clone this repo to your local machine, and add the RNN-Tutorial directory as a system variable to your `~/.profile`. Instructions given for bash shell:
