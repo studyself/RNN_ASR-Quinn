@@ -87,3 +87,5 @@ We made a few additions to your `.profile` -- remove those additions if you want
 echo "source ~/.profile" >> .bash_profile
 ```
 
+### Next steps
+We hope that our provided repo is a useful resource for getting started. Please share your experiences with adopting RNNs by [contacting us](https://svds.com/contact/) or putting in pull requests for suggested changes. To stay in touch, sign up for our [newsletter](https://svds.com/newsletter/).
