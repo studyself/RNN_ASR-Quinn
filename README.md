@@ -28,7 +28,7 @@ If you have a NVIDIA GPU with [CUDA](http://docs.nvidia.com/cuda/cuda-installati
 pip install tensorflow-gpu==1.0.1
 ```
 
-If you will be running TensorFlow on CPU only (i.e. a MacBook Pro), use the following command (if you get an error the first time you run this command read below):
+If you will be running TensorFlow on CPU only (e.g. a MacBook Pro), use the following command (if you get an error the first time you run this command read below):
 
 ```bash
 pip install --upgrade\
