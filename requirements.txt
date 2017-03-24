@@ -9,3 +9,4 @@ requests==2.13.0
 scipy==0.18.1
 sox==1.2.6
 tree==0.1.0
+click==6.7
